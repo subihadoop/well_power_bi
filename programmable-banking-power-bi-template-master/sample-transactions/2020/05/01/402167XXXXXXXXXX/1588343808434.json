@@ -1,0 +1,26 @@
+{
+    "accountNumber": "1001Sample",
+    "dateTime": "2020-05-01T14:39:11.000Z",
+    "centsAmount": 19598,
+    "currencyCode": "zar",
+    "type": "card",
+    "reference": "20662940",
+    "card": {
+        "id": "Sample",
+        "display": "402167XXXXXXXXXX"
+    },
+    "merchant": {
+        "category": {
+            "code": "4121",
+            "key": "taxicabs_limousines",
+            "name": "Taxicabs/Limousines"
+        },
+        "name": "PAYPAL *UBER BV",
+        "city": "35314369001",
+        "country": {
+            "code": "NL",
+            "alpha3": "NLD",
+            "name": "Netherlands (the)"
+        }
+    }
+}

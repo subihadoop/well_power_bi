@@ -1,0 +1,26 @@
+{
+    "accountNumber": "1001Sample",
+    "dateTime": "2020-04-23T19:57:36.000Z",
+    "centsAmount": 0,
+    "currencyCode": "zar",
+    "type": "card",
+    "reference": "19846636",
+    "card": {
+        "id": "Sample",
+        "display": "402167XXXXXXXXXX"
+    },
+    "merchant": {
+        "category": {
+            "code": "7399",
+            "key": "miscellaneous_business_services",
+            "name": "Miscellaneous Business Services"
+        },
+        "name": "GOOGLE *TEMPORARY HOLD",
+        "city": "g.co/helppay#",
+        "country": {
+            "code": "GB",
+            "alpha3": "GBR",
+            "name": "United Kingdom of Great Britain and Northern Ireland (the)"
+        }
+    }
+}

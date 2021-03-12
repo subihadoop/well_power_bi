@@ -1,0 +1,26 @@
+{
+    "accountNumber": "1001Sample",
+    "dateTime": "2020-04-22T13:27:47.000Z",
+    "centsAmount": 1000,
+    "currencyCode": "zar",
+    "type": "card",
+    "reference": "19734774",
+    "card": {
+        "id": "Sample",
+        "display": "402167XXXXXXXXXX"
+    },
+    "merchant": {
+        "category": {
+            "code": "7995",
+            "key": "betting_casino_gambling",
+            "name": "Betting/Casino Gambling"
+        },
+        "name": "HOLLYWOODBETS",
+        "city": "La Lucia",
+        "country": {
+            "code": "ZA",
+            "alpha3": "ZAF",
+            "name": "South Africa"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "accountNumber": "1001Sample",
+    "dateTime": "2020-05-01T13:57:37.000Z",
+    "centsAmount": 19920,
+    "currencyCode": "zar",
+    "type": "card",
+    "reference": "20655803",
+    "card": {
+        "id": "Sample",
+        "display": "402167XXXXXXXXXX"
+    },
+    "merchant": {
+        "category": {
+            "code": "4215",
+            "key": "courier_services",
+            "name": "Courier Services"
+        },
+        "name": "Mr D Food",
+        "city": "Cape Town",
+        "country": {
+            "code": "ZA",
+            "alpha3": "ZAF",
+            "name": "South Africa"
+        }
+    }
+}

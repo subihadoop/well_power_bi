@@ -1,0 +1,26 @@
+{
+    "accountNumber": "1001Sample",
+    "dateTime": "2020-04-23T19:12:49.000Z",
+    "centsAmount": 100,
+    "currencyCode": "usd",
+    "type": "card",
+    "reference": "19845386",
+    "card": {
+        "id": "Sample",
+        "display": "402167XXXXXXXXXX"
+    },
+    "merchant": {
+        "category": {
+            "code": "5999",
+            "key": "miscellaneous_specialty_retail",
+            "name": "Miscellaneous Specialty Retail"
+        },
+        "name": "PAYPAL",
+        "city": "4029357733",
+        "country": {
+            "code": "LU",
+            "alpha3": "LUX",
+            "name": "Luxembourg"
+        }
+    }
+}

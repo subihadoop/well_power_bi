@@ -1,0 +1,26 @@
+{
+    "accountNumber": "1001Sample",
+    "dateTime": "2020-05-02T08:24:29.000Z",
+    "centsAmount": 2000,
+    "currencyCode": "zar",
+    "type": "card",
+    "reference": "20720354",
+    "card": {
+        "id": "Sample",
+        "display": "402167XXXXXXXXXX"
+    },
+    "merchant": {
+        "category": {
+            "code": "4121",
+            "key": "taxicabs_limousines",
+            "name": "Taxicabs/Limousines"
+        },
+        "name": "UBER SA help.uber.com",
+        "city": "0861117298",
+        "country": {
+            "code": "ZA",
+            "alpha3": "ZAF",
+            "name": "South Africa"
+        }
+    }
+}
